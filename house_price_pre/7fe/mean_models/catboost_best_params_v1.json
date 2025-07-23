@@ -1,0 +1,1 @@
+{"iterations": 3010, "learning_rate": 0.06716005144039558, "depth": 10, "l2_leaf_reg": 1.3593474750172516, "subsample": 0.9556745034652832, "random_strength": 0.002683010904433221, "bagging_temperature": 0.3594664664890215, "loss_function": "RMSE", "eval_metric": "RMSE", "random_seed": 42}
